@@ -7,3 +7,10 @@ This project demonstrates a robust and time-efficient approach to mapping water 
 Google Earth Engine Code Editor
 Data - Landsat8 Surface Reflectance from GEE-DataCatalog
 #Javascript
+
+
+<img width="940" height="462" alt="image" src="https://github.com/user-attachments/assets/d68200ab-4c38-4c3f-9ea7-036c2d7cfdf6" />
+Fig - Water surface extent derived from MNDWI after binarisation
+
+<img width="940" height="462" alt="image" src="https://github.com/user-attachments/assets/25c03352-7e55-4160-929c-4a0fc74c0758" />
+Fig - Water surface extent derived from AWEI-Otsu threshold binarisation
